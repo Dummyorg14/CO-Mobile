@@ -4,7 +4,7 @@ import { Text, View } from 'react-native';
 export default function App() {
   return (
     <View>
-      <Text>Disaster Mobile App</Text>
+      <Text>Campus One App</Text>
     </View>
   );
 }
